@@ -1,0 +1,5 @@
+tpad (7.0.0.0-1gna1) cosmic; urgency=critical
+
+  * Update to use GDK 4.1 and current libs
+
+ -- Andrew Smith (GNA SERVICES INC) <Andrew@GNAServicesInc.com>  Sat, 10 Apr 2025 02:16:57 -0400
